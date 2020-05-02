@@ -1,4 +1,4 @@
-from matematica.base.mat import soma as s
+from base.mat import soma as s
 
-print(s(4,5))
+print(s(40,5))
 
